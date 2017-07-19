@@ -5,7 +5,12 @@ A simple node application that dumps lorem-ipsum log data
 
 Easy as clicking a few buttons
 
+Production
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/andrewlow/NodeLogTest)
+
+Staging
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://console.stage1.bluemix.net/devops/setup/deploy?repository=https://github.com/andrewlow/NodeLogTest)
+
 
 # Launching Manually
 
