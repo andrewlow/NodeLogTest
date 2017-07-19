@@ -6,6 +6,5 @@ applications:
   name: NodeLogTest
   command: npm start
   path: .
-  domain: mybluemix.net
   instances: 1
   memory: 512M
